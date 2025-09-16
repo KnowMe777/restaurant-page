@@ -1,4 +1,4 @@
-# 🍝 Restaurant Page (Webpack Boilerplate)
+# Restaurant Page (Webpack Boilerplate)
 
 This project is a **restaurant website** built with a reusable **Webpack boilerplate**.  
 It supports CSS, image optimization, and deployment to **GitHub Pages**.
@@ -16,7 +16,7 @@ It supports CSS, image optimization, and deployment to **GitHub Pages**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **JavaScript (ES6+)**
 - **HTML5**
 - **CSS3**
@@ -29,6 +29,6 @@ It supports CSS, image optimization, and deployment to **GitHub Pages**.
 ---
 
 ## Live Preview
-Visit the website here (Live Demo)[https://knowme777.github.io/restaurant-page/]
+[Visit the website here (Live Demo)](https://knowme777.github.io/restaurant-page/)
 
 
