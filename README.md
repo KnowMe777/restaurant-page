@@ -1,4 +1,4 @@
-# Restaurant Page (Webpack Boilerplate)
+# Restaurant Page
 
 This project is a **restaurant website** built with a reusable **Webpack boilerplate**.  
 It supports CSS, image optimization, and deployment to **GitHub Pages**.
