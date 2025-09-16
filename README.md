@@ -1,12 +1,34 @@
-# Webpack Boilerplate
+# 🍝 Restaurant Page (Webpack Boilerplate)
 
-A ready-to-use Webpack starter template with support for CSS, images, and GitHub Actions.  
+This project is a **restaurant website** built with a reusable **Webpack boilerplate**.  
+It supports CSS, image optimization, and deployment to **GitHub Pages**.
 
-## Getting Started
+---
 
-Clone this boilerplate into a new project using [degit](https://github.com/Rich-Harris/degit):
+##  Features
+- **Webpack 5** bundling
+- **CSS support** (`style-loader`, `css-loader`)
+- **Image assets** (PNG, JPEG, GIF, SVG, WebP, AVIF)
+- **Image optimization** with `ImageMinimizerPlugin` + `imagemin`
+- **HTML template generation** via `HtmlWebpackPlugin`
+- **Dev server with HMR** (Hot Module Replacement)
+- **GitHub Pages deploy** (`gh-pages` package)
 
-```bash
-npx degit KnowMe777/webpack-starter my-new-project
-cd my-new-project
-npm install
+---
+
+## 🛠️ Tech Stack
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3**
+- **Webpack 5**
+- **Webpack Dev Server**
+- **HtmlWebpackPlugin**
+- **ImageMinimizerPlugin + imagemin**
+- **gh-pages** (for deployment)
+
+---
+
+## Live Preview
+Visit the website here (Live Demo)[https://knowme777.github.io/restaurant-page/]
+
+
