@@ -29,6 +29,6 @@ It supports CSS, image optimization, and deployment to **GitHub Pages**.
 ---
 
 ## Live Preview
-[Visit the website here (Live Demo)](https://knowme777.github.io/restaurant-page/)
+Visit the website here. [(Live Demo)](https://knowme777.github.io/restaurant-page/)
 
 
